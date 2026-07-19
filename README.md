@@ -2,10 +2,10 @@
 <h3 align="center">Full Stack AI Engineer | LangChain | Node.js | React | Vector Databases</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/prashanth1699" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:prashanth90807@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
