@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prashanth Subramani</h1>
-<h3 align="center">Full Stack AI Engineer | Mern | LangChain | Node.js | React | Vector Databases</h3>
+<h3 align="center">Full Stack AI Engineer | LangChain | Node.js | React | Vector Databases</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/prashanth1699" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:prashanth90807@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=PrashanthSubramani99&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -23,14 +24,22 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-**Frontend:** React · Vite.js · JavaScript · TypeScript · HTML · CSS  
-**Backend:** Node.js · Express.js · REST APIs  
-**AI/ML:** LangChain · NVIDIA LLM · OpenAI · Prompt Engineering  
-**Databases:** MySQL · TiDB Cloud · Redis (Vector Store) · Qdrant · Sequelize ORM  
-**DevOps:** Docker · Vercel · Git · GitHub · CI/CD  
-**Tools:** VS Code · Notion · Postman
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
@@ -43,10 +52,12 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrashanthSubramani99&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanthSubramani99&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashanthSubramani99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanthSubramani99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
