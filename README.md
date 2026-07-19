@@ -58,6 +58,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashanthSubramani99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashanthSubramani99&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+---
+
+### 💬 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
