@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashanth Subramani</h1>
-<h3 align="center">Full Stack AI Engineer | LangChain | Node.js | React | Vector Databases</h3>
+<h3 align="center">Full Stack AI Engineer | Mern | LangChain | Node.js | React | Vector Databases</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/prashanth1699" target="_blank">
